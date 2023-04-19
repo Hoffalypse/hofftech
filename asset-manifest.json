@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hofftech/static/css/main.60622539.css",
+    "main.js": "/hofftech/static/js/main.9fbbda84.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hofftech/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Logo-blue.png": "/hofftech/static/media/Logo-blue.8b039fdbadddb971521a.png",
+    "index.html": "/hofftech/index.html",
+    "main.60622539.css.map": "/hofftech/static/css/main.60622539.css.map",
+    "main.9fbbda84.js.map": "/hofftech/static/js/main.9fbbda84.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hofftech/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60622539.css",
+    "static/js/main.9fbbda84.js"
+  ]
+}
